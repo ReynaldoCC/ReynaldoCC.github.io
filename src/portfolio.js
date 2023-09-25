@@ -323,6 +323,42 @@ const certifications = {
       alt_name: "EF SET",
       color_code: "#4285F499",
     },
+    {
+      title: "Test Automation Foundation",
+      subtitle: "- Ozan IIhan",
+      logo_path: "udemy-logo.svg",
+      certificate_link:
+        "https://drive.google.com/file/d/1x7sXtsLGtAqadOVO3lL4X-Bkfi95jJLC/view?usp=sharing",
+      alt_name: "Software Testing House",
+      color_code: "#00000099",
+    },
+    {
+      title: "Blockchain de la A a la Z",
+      subtitle: "- Super Datascience Team",
+      logo_path: "udemy-logo.svg",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-853768cd-4be7-456d-99e0-ba9281f1094a/",
+      alt_name: "Super Datascience Team",
+      color_code: "#00000099",
+    },
+    {
+      title: "R Studio: Empieza desde Cero",
+      subtitle: "- Raul Montesinos",
+      logo_path: "udemy-logo.svg",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-52a35060-5956-4c2a-8cb5-d1e9e0a83b8c/",
+      alt_name: "DataBooster Academy",
+      color_code: "#00000099",
+    },
+    {
+      title: "Blockchain",
+      subtitle: "Google Developer launchpad",
+      logo_path: "google-developer-launchpad-logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1d03b0jcGA8EMmFFvnUhO7IJvlOMwj3UG/view?usp=sharing",
+      alt_name: "Google Developer launchpad",
+      color_code: "#00000099",
+    },
   ],
 };
 
