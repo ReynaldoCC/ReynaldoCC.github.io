@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b239788f71adffccef96b4929a6b18a",
+    "revision": "712725d168a61a59fcd92c68792f9f8a",
     "url": "./index.html"
   },
   {
-    "revision": "c436eeb84c4f63ffac5f",
+    "revision": "31a7f1ceb0fb04c7abfe",
     "url": "./static/css/main.5091578a.chunk.css"
   },
   {
-    "revision": "42f10a6f5d797d5542b1",
-    "url": "./static/js/2.2c9eaf73.chunk.js"
+    "revision": "2c313576f01c0964bd89",
+    "url": "./static/js/2.6a5832c1.chunk.js"
   },
   {
-    "revision": "c436eeb84c4f63ffac5f",
-    "url": "./static/js/main.dbd14446.chunk.js"
+    "revision": "31a7f1ceb0fb04c7abfe",
+    "url": "./static/js/main.60d6a201.chunk.js"
   },
   {
     "revision": "61e8b65c27874e1c83e1",
@@ -194,6 +194,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6eeb2e810d0fd9f3ca2dcd72de228e68",
     "url": "./static/media/github_logo.6eeb2e81.png"
+  },
+  {
+    "revision": "7a39da5630ffd883cf20c81e7d03b848",
+    "url": "./static/media/google-developer-launchpad-logo.7a39da56.png"
   },
   {
     "revision": "0c8a4c114ad00f7854e91550379b9b91",
