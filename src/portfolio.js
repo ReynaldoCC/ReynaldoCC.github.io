@@ -62,8 +62,14 @@ const socialMediaLinks = [
   {
     name: "Credly",
     link: "https://www.credly.com/users/reynaldo-cuenca-campos/badges",
-    fontAwesomeIcon: "simple-icons:credly", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
+    fontAwesomeIcon: "fa-cuttlefish", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#ff6a00", // Reference https://simpleicons.org/?q=linkedin
+  },
+  {
+    name: "Telegram",
+    link: "https://t.me/Bichengo",
+    fontAwesomeIcon: "fa-telegram-plane", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
+    backgroundColor: "#3390ec", // Reference https://simpleicons.org/?q=linkedin
   },
 ];
 
@@ -422,7 +428,7 @@ const experience = {
         },
         {
           title: "Full Stack Web Developer",
-          company: "NavegaBit",
+          company: "Bidaiondo",
           company_url: "https://www.bidaiondo.com/",
           logo_path: "bidaiondo_logo.png",
           duration: "Mar 2019 - Dec 2021",
@@ -493,7 +499,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "my.png",
     description:
-      "I am available on some social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on some social media. You can message me, I will reply within 24 hours. I can help you with Python, Django and other related tech-stacks even in Opensource Development.",
   },
   blogSection: {
     title: "",
