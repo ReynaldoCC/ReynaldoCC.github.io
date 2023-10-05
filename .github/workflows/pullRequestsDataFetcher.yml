@@ -13,7 +13,7 @@ jobs:
         id: get_pull_requests
         with:
           query: |
-            query user(login: "ashutosh1919") {
+            query user(login: "reynaldocc") {
               pullRequests(last: 100, orderBy: {field: CREATED_AT, direction: DESC}) {
                 totalCount
                 nodes {
@@ -47,5 +47,5 @@ jobs:
               }
             }
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PORTFOLIO_GITHUB_TOKEN }}
       - run: "echo 'Pull Requests Data: ${{ steps.get_latest_release.outputs.data }}'"

@@ -374,6 +374,15 @@ const certifications = {
       alt_name: "IBM",
       color_code: "#00000099",
     },
+    {
+      title: "Solidity Certification Course",
+      subtitle: "Google Developer launchpad",
+      logo_path: "google-developer-launchpad-logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1TTuKEHJNNLlIsBbQNUeMBD-Emp0mKJ65/view?usp=drive_link",
+      alt_name: "Google Developer launchpad",
+      color_code: "#00000099",
+    },
   ],
 };
 
