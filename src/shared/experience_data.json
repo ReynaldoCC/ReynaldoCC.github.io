@@ -1,55 +1,71 @@
 {
-	"title": "Experience",
-	"subtitle": "Work, Internship and Volunteership",
-	"description":
-		"I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
-	"header_image_path": "experience.svg",
-	"sections": [
-		{
-			"title": "Work",
-			"experiences": [
-				{
-					"title": "Android and ML Developer",
-					"company": "Muffito Incorporation",
-					"company_url": "https://www.linkedin.com/company/muffito-inc/about/",
-					"logo_path": "muffito_logo.png",
-					"duration": "May 2018 - Oct 2018",
-					"location": "Pune, Maharashtra",
-					"description":
-						"I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-					"color": "#9b1578"
-				},
-				{
-					"title": "Android Developer",
-					"company": "FreeCopy Pvt. Ltd.",
-					"company_url": "https://www.linkedin.com/company/freecopy/about/",
-					"logo_path": "freecopy_logo.png",
-					"duration": "Nov 2017 - Dec 2017",
-					"location": "Ahmedabad, Gujarat",
-					"description":
-						"FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-					"color": "#fc1f20"
-				}
-			]
-		},
-		{
-			"title": "Internships",
-			"experiences": [
-				{
-					"title": "Data Science Research Intern",
-					"company": "Delhivery Pvt. Ltd.",
-					"company_url": "https://www.delhivery.com/",
-					"logo_path": "delhivery_logo.png",
-					"duration": "May 2019 - Sept 2019",
-					"location": "Gurgaon, Haryana",
-					"description": "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
-					"color": "#ee3c26"
-				}
-			]
-		},
-		{
-			"title": "Volunteerships",
-			"experiences": []
-		}
-	]
+  "description": "I have worked in some startUps mainly as Full stack web developer with a heavy backend position. I have also worked with some well established companies mostly covering similar roles. I love supporting my teammates and also planning as better as possible the work flow because of that I performed couple of times as a Team leader.",
+  "header_image_path": "experience.svg",
+  "sections": [
+    {
+      "title": "Work",
+      "experiences": [
+        {
+          "title": "Full Stack Web Developer",
+          "company": "FPT Software",
+          "company_url": "https://legatohealthtech.com/",
+          "logo_path": "FPT_Software.png",
+          "duration": "Jul 2022 - Jul 2023",
+          "location": "Da Nang, VietNam",
+          "description": "I worked in a web system to follow up leads and residents of communities and properties, to improve the experience of those management users and the interaction between our customer and the final users of the platform. The web system include many integration with others third party software making easier for final user get familiar with the system.",
+          "color": "#0879bf"
+        },
+        {
+          "title": "Team Leader",
+          "company": "DPV La Habana",
+          "company_url": "https://www.facebook.com/DPVLaHabana/?locale=es_LA",
+          "logo_path": "dpv_la_habana.jpg",
+          "duration": "Aug 2018 - Jun 2022",
+          "location": "Havana, Cuba",
+          "description": "I lead a small developers team to create a web system to computerize many areas of the company. The Suit was thought to be integrated with others software used in the company and support to others made manually processes, in order to facility the labor of many people and get more accurate information about the company processes flow.",
+          "color": "#9b1578"
+        },
+        {
+          "title": "Full Stack Web Developer",
+          "company": "NavegaBit",
+          "company_url": "https://www.bidaiondo.com/",
+          "logo_path": "bidaiondo_logo.png",
+          "duration": "Mar 2019 - Dec 2021",
+          "location": "Havana, Cuba",
+          "description": "Bidaiondo is Software developer company specialized in software for tourism market from Spain, with a branch in Havana, Cuba, I coded features for some tourism website and management platforms focussed on the company business model.",
+          "color": "black"
+        },
+        {
+          "title": "Backend Lead Developer",
+          "company": "NavegaBit",
+          "company_url": "https://www.facebook.com/profile.php?id=100081589205035",
+          "logo_path": "navegabit.png",
+          "duration": "Jan 2021 - May 2021",
+          "location": "Havana, Cuba",
+          "description": "NavegaBit is an amazing Start UP from Cuba that develop software for Cuban and foreigner Pymes, they given to me the opportunity to lead a small backend developers team to develop a GraphQL API consumed by a web and a mobile application to manage loans, credits and payment ways of a platform with a virtual currency.",
+          "color": "#fc1f20"
+        },
+        {
+          "title": "Full Stack Web Developer",
+          "company": "ByT",
+          "company_url": "https://www.byt.bz/",
+          "logo_path": "byt_logo.jpeg",
+          "duration": "Jul 2018 - Dec 2019",
+          "location": "Havana, Cuba",
+          "description": "ByT is Warm family in Start Up form from Cuba. I developed a web system to manage, computerize and analyze the data from consultations, records, and medical follow-ups, as well as patient data. This Software include but not limited to examination, results, patients notification, and Integration with third-party systems from companies in the sector",
+          "color": "#fc1f20"
+        }
+      ]
+    },
+    {
+      "title": "Internships",
+      "experiences": []
+    },
+    {
+      "title": "Volunteerships",
+      "experiences": []
+    }
+  ],
+  "subtitle": "Work",
+  "title": "Experience"
 }
