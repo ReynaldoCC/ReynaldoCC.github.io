@@ -363,7 +363,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1d03b0jcGA8EMmFFvnUhO7IJvlOMwj3UG/view?usp=sharing",
       alt_name: "Google Developer launchpad",
-      color_code: "#00000099",
+      color_code: "#e78b8b99",
     },
     {
       title: "Python 101 for Data Science",
@@ -372,7 +372,7 @@ const certifications = {
       certificate_link:
         "https://courses.cognitiveclass.ai/certificates/84d2024352b142509701eb56ca7a4c86",
       alt_name: "IBM",
-      color_code: "#00000099",
+      color_code: "#9eededad",
     },
     {
       title: "Solidity Certification Course",
@@ -381,7 +381,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1TTuKEHJNNLlIsBbQNUeMBD-Emp0mKJ65/view?usp=drive_link",
       alt_name: "Google Developer launchpad",
-      color_code: "#00000099",
+      color_code: "#e78b8b99",
     },
   ],
 };
