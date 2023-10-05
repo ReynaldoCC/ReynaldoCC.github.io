@@ -359,6 +359,15 @@ const certifications = {
       alt_name: "Google Developer launchpad",
       color_code: "#00000099",
     },
+    {
+      title: "Python 101 for Data Science",
+      subtitle: "Cognitive Class AI",
+      logo_path: "cognclass_logo.png",
+      certificate_link:
+        "https://courses.cognitiveclass.ai/certificates/84d2024352b142509701eb56ca7a4c86",
+      alt_name: "IBM",
+      color_code: "#00000099",
+    },
   ],
 };
 
