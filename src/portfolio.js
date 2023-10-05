@@ -59,6 +59,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
+  {
+    name: "Credly",
+    link: "https://www.credly.com/users/reynaldo-cuenca-campos/badges",
+    fontAwesomeIcon: "simple-icons:credly", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
+    backgroundColor: "#ff6a00", // Reference https://simpleicons.org/?q=linkedin
+  },
 ];
 
 const skills = {
@@ -272,7 +278,7 @@ const degrees = {
   degrees: [
     {
       title:
-        "Universidad Tecnológica de La Habana 'José Antonio Echeverría (CUJAE)",
+        "Universidad Tecnológica de La Habana 'José Antonio Echeverría' (CUJAE)",
       subtitle: "Informatics Engineering",
       logo_path: "cujae_logo.png",
       alt_name: "CUJAE",
