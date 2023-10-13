@@ -395,7 +395,7 @@ const certifications = {
       logo_path: "HackerRank.png",
       certificate_link: "https://www.hackerrank.com/certificates/dcd66569fe09",
       alt_name: "Hacker Rank",
-      color_code: "#0d7eb9",
+      color_code: "#0d7eb990",
     },
   ],
 };
