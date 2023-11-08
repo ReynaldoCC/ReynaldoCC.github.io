@@ -397,6 +397,25 @@ const certifications = {
       alt_name: "Hacker Rank",
       color_code: "#0d7eb990",
     },
+    {
+      title:
+        "Blockchain Scalability and its Foundations in Distributed Systems",
+      subtitle: "Coursera",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/F2ZMWRFY29MR",
+      alt_name: "University of Sidney",
+      color_code: "#b5d57490",
+    },
+    {
+      title: "Python Data Structures",
+      subtitle: "Coursera",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/CXXPBGAQFBVF",
+      alt_name: "University of Michigan",
+      color_code: "#b5d57490",
+    },
   ],
 };
 
