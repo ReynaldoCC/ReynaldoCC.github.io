@@ -547,8 +547,8 @@ const contactPageData = {
     location_map_link: "https://maps.app.goo.gl/5KeJnM2wi32aBkat5",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Phone Number",
+    subtitle: "+1 (786) 374 2522",
   },
 };
 
