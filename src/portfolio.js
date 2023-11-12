@@ -416,6 +416,15 @@ const certifications = {
       alt_name: "University of Michigan",
       color_code: "#b5d57490",
     },
+    {
+      title: "Introduction to Blockchain for Global Commerce",
+      subtitle: "Coursera",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/BCK425HMY22S",
+      alt_name: "INSEAD",
+      color_code: "#b5d57490",
+    },
   ],
 };
 
