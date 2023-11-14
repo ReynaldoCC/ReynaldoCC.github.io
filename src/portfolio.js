@@ -425,6 +425,15 @@ const certifications = {
       alt_name: "INSEAD",
       color_code: "#b5d57490",
     },
+    {
+      title: "Application Development using Microservices and Serverless",
+      subtitle: "Coursera",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/2JMHSR4XTRKX",
+      alt_name: "IBM",
+      color_code: "#b5d57490",
+    },
   ],
 };
 
