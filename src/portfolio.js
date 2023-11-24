@@ -434,6 +434,24 @@ const certifications = {
       alt_name: "IBM",
       color_code: "#b5d57490",
     },
+    {
+      title: "Using Python to Access Web Data",
+      subtitle: "Coursera",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/2BER4GNJDKDV",
+      alt_name: "University of Michigan",
+      color_code: "#b5d57490",
+    },
+    {
+      title: "Web3 and Blockchain Transformations in Global Supply Chains",
+      subtitle: "Coursera",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/PXPZK6Q2BVGQ",
+      alt_name: "INSEAD",
+      color_code: "#b5d57490",
+    },
   ],
 };
 
@@ -480,7 +498,7 @@ const experience = {
           location: "Havana, Cuba",
           description:
             "Bidaiondo is Software developer company specialized in software for tourism market from Spain, with a branch in Havana, Cuba, I coded features for some tourism website and management platforms focussed on the company business model.",
-          color: "black",
+          color: "#000000",
         },
         {
           title: "Backend Lead Developer",
