@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.4e385caa.css",
-    "main.js": "./static/js/main.8c490eb5.js",
+    "main.js": "./static/js/main.a9e5dda8.js",
     "static/media/portfolio.gif": "./static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -58,6 +58,7 @@
     "static/media/pwa.png": "./static/media/pwa.5107022416df1293dd12.png",
     "static/media/experience.svg": "./static/media/experience.c50c576af78a4172f78d.svg",
     "static/media/fa-regular-400.woff": "./static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
+    "static/media/coursera.png": "./static/media/coursera.a07102e9f186a57372e6.png",
     "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
     "static/media/feelingProud.svg": "./static/media/feelingProud.288e616ff8dc11bd4713.svg",
     "static/media/cloud_infrastructure.svg": "./static/media/cloud_infrastructure.20b580f8784fe74e6e38.svg",
@@ -73,10 +74,10 @@
     "static/media/udemy-logo.svg": "./static/media/udemy-logo.a5a9f8a55eb6b3bbc89a.svg",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.4e385caa.css.map": "./static/css/main.4e385caa.css.map",
-    "main.8c490eb5.js.map": "./static/js/main.8c490eb5.js.map"
+    "main.a9e5dda8.js.map": "./static/js/main.a9e5dda8.js.map"
   },
   "entrypoints": [
     "static/css/main.4e385caa.css",
-    "static/js/main.8c490eb5.js"
+    "static/js/main.a9e5dda8.js"
   ]
 }
