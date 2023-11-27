@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.4e385caa.css",
-    "main.js": "./static/js/main.a9e5dda8.js",
+    "main.js": "./static/js/main.8a6566a0.js",
     "static/media/portfolio.gif": "./static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -74,10 +74,10 @@
     "static/media/udemy-logo.svg": "./static/media/udemy-logo.a5a9f8a55eb6b3bbc89a.svg",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.4e385caa.css.map": "./static/css/main.4e385caa.css.map",
-    "main.a9e5dda8.js.map": "./static/js/main.a9e5dda8.js.map"
+    "main.8a6566a0.js.map": "./static/js/main.8a6566a0.js.map"
   },
   "entrypoints": [
     "static/css/main.4e385caa.css",
-    "static/js/main.a9e5dda8.js"
+    "static/js/main.8a6566a0.js"
   ]
 }
