@@ -452,6 +452,15 @@ const certifications = {
       alt_name: "INSEAD",
       color_code: "#b5d57490",
     },
+    {
+      title: "Web3 and Blockchain Leadership for Transformation",
+      subtitle: "Coursera",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/certificate/QGGEM4LUYQ92",
+      alt_name: "INSEAD",
+      color_code: "#b5d57490",
+    },
   ],
 };
 
